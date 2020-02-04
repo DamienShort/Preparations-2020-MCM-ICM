@@ -1,5 +1,4 @@
-# MCM-ICM-competition-prepare-in-2019-
-Preparations-2020MCM-ICM
+# Preparations-2020MCM-ICM
 MCM/ICM competition prepare in 2019
 
 一、美赛官网：https://www.comap.com/undergraduate/contests/
