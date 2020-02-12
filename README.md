@@ -1,7 +1,7 @@
 # Preparations-2020MCM-ICM
 ### MCM/ICM competition prepare in 2020
 
-##### 一、美赛官方通知
+#### 一、美赛官方通知
 
 - 2020MCM/ICM不再需要控制页
 
@@ -24,35 +24,34 @@
 
 - 题目分析及参赛人数：
 
-  > - 题型：
+  > 1、题型：
   >
-  >   MCM 问题 A (连续型) 
+  > ​      MCM 问题 A (连续型) 
   >
-  >   MCM 问题B (离散型) 
+  > ​      MCM 问题B (离散型) 
   >
-  >   MCM 问题 C (数据分析) 
+  > ​      MCM 问题 C (数据分析) 
   >
-  >   ICM 问题 D (运筹学/网络科学) 
+  > ​      ICM 问题 D (运筹学/网络科学) 
   >
-  >   ICM 问题 E (环境科学) 
+  > ​      ICM 问题 E (环境科学) 
   >
-  >   ICM 问题 F (政策研究)
+  > ​      ICM 问题 F (政策研究)
   >
-  > - 2019参赛人数：
+  > 2、2019参赛人数：
   >
-  >   3,872 Problem A (28%) 
+  > ​     3,872 Problem A (28%) 
   >
->   5,111 Problem B (36%) 
+  > ​     5,111 Problem B (36%) 
   >
-  >   5,125 Problem C (36%)
+  > ​     5,125 Problem C (36%)
   >
-  >   5,728 Problem D （51%） 
+  > ​     5,728 Problem D （51%） 
   >
-  >   4,852 Problem E （43%） 
+  > ​     4,852 Problem E （43%） 
   >
-  >   682 Problem F （6%）
-  
-  ---------------
+  > ​    682 Problem F （6%）
+---------------
 
  二、Google学术镜像：https://ac.scmor.com/
 
