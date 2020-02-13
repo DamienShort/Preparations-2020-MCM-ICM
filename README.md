@@ -74,13 +74,21 @@
   >   682  Problem F  （6%）
 ---------------
 
- 二、Google学术镜像：https://ac.scmor.com/
+二、Google学术镜像：https://ac.scmor.com/
 
-三、知网翻译：http://dict.cnki.net/
+三、SCI-hub：
 
-四、维基百科：https://www.wikipedia.org/
+>  http://tool.yovisun.com/scihub/ 
+>
+> https://sci-hub.tw/
 
-五、LaTeX资源
+​                          
+
+四、知网翻译：http://dict.cnki.net/
+
+五、维基百科：https://www.wikipedia.org/
+
+六、LaTeX资源
 
 > Overleaf网站：https://www.overleaf.com/
 >
